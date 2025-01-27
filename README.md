@@ -21,7 +21,6 @@ Assurez-vous d'avoir installé les prérequis suivants avant d'exécuter le proj
 - [PyVista](https://docs.pyvista.org/)
 
 Vous pouvez installer les dépendances nécessaires en utilisant `pip` :
-
 ```bash
 pip install tensorflow streamlit trimesh pyvista scipy
 ```
