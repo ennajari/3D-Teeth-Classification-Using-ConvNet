@@ -11,7 +11,6 @@ Ce projet, réalisé en collaboration avec 3D Smart Factory, utilise des réseau
 - **Comparaison de modèles** : Possibilité de comparer visuellement plusieurs modèles de dents simultanément pour détecter les différences.
 - **Historique des téléchargements** : Gardez une trace des modèles de dents précédemment téléchargés et classifiés pour les consulter ultérieurement.
 - **Amélioration des performances** : Optimisation de la gestion des fichiers volumineux pour garantir une manipulation fluide même pour des fichiers 3D complexes.
-
 ## Prérequis
 Assurez-vous d'avoir installé les prérequis suivants avant d'exécuter le projet :
 - Python 3.7 ou plus récent
